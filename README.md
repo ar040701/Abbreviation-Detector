@@ -1,1 +1,3 @@
 # Abbreviation-Detector
+DaBERTa Abbreviation Detector is a token classification demo built with Gradio that identifies abbreviations and their corresponding long forms in scientific and biomedical text. Powered by a fine-tuned DaBERTa model trained on the PLOD-CW-25 dataset, this app highlights abbreviation–long-form pairs in context, making it easier to analyze unstructured data. Simply enter any sentence, and the model will detect and label relevant entities using interactive visualization. This tool is especially useful for medical or research texts where abbreviations are common.
+Check out the live demo on [Hugging Face Spaces](https://ayush0407-daberta-abbreviation-detector.hf.space)
